@@ -1,0 +1,400 @@
+School Year,Subject,Race,Grade,Test Source,Test,Total Count,Pass Rate
+2005-2006,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Algebra I,             389,    99.49
+2005-2006,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Geometry,              61,100.00
+2005-2006,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Mathematics,             976,    73.87
+2005-2006,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              69,    97.10
+2005-2006,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              12,100.00
+2005-2006,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             187,    72.19
+2005-2006,Mathematics,Asian,8,SOL,Algebra I,"           2,018",    99.36
+2005-2006,Mathematics,Asian,8,SOL,Geometry,             523,100.00
+2005-2006,Mathematics,Asian,8,SOL,Mathematics,"           2,232",    81.81
+2005-2006,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           3,464",    95.70
+2005-2006,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,             632,    93.99
+2005-2006,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          20,598",    60.52
+2005-2006,Mathematics,Hispanic,8,SOL,Algebra I,             875,    97.60
+2005-2006,Mathematics,Hispanic,8,SOL,Geometry,             105,    99.05
+2005-2006,Mathematics,Hispanic,8,SOL,Mathematics,"           5,050",    60.12
+2005-2006,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          17,123",    98.94
+2005-2006,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           3,476",100.00
+2005-2006,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          36,170",    77.95
+2005-2006,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              21,100.00
+2005-2006,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,<,>50
+2005-2006,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              48,    77.08
+2006-2007,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Algebra I,             491,    98.57
+2006-2007,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Geometry,              92,    95.65
+2006-2007,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Mathematics,"           1,222",    66.45
+2006-2007,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              84,    97.62
+2006-2007,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              11,100.00
+2006-2007,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             217,    76.04
+2006-2007,Mathematics,Asian,8,SOL,Algebra I,"           2,109",100.00
+2006-2007,Mathematics,Asian,8,SOL,Geometry,             696,100.00
+2006-2007,Mathematics,Asian,8,SOL,Mathematics,"           2,211",    82.81
+2006-2007,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           3,769",    97.08
+2006-2007,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,             733,    94.27
+2006-2007,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          20,125",    61.54
+2006-2007,Mathematics,Hispanic,8,SOL,Algebra I,             987,    97.16
+2006-2007,Mathematics,Hispanic,8,SOL,Geometry,             141,100.00
+2006-2007,Mathematics,Hispanic,8,SOL,Mathematics,"           5,278",    60.59
+2006-2007,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          16,948",    99.17
+2006-2007,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           3,839",    99.45
+2006-2007,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          34,725",    79.00
+2006-2007,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              15,100.00
+2006-2007,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,<,>50
+2006-2007,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              35,    82.86
+2007-2008,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Algebra I,             533,    98.87
+2007-2008,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Geometry,             104,    99.04
+2007-2008,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Mathematics,"           1,064",    74.81
+2007-2008,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              70,100.00
+2007-2008,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              18,100.00
+2007-2008,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             188,    86.70
+2007-2008,Mathematics,Asian,8,SOL,Algebra I,"           2,102",100.00
+2007-2008,Mathematics,Asian,8,SOL,Geometry,             768,100.00
+2007-2008,Mathematics,Asian,8,SOL,Mathematics,"           2,069",    87.58
+2007-2008,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           4,258",    98.00
+2007-2008,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,             804,    97.26
+2007-2008,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          18,389",    69.64
+2007-2008,Mathematics,Hispanic,8,SOL,Algebra I,"           1,292",    98.76
+2007-2008,Mathematics,Hispanic,8,SOL,Geometry,             172,    99.42
+2007-2008,Mathematics,Hispanic,8,SOL,Mathematics,"           5,422",    70.71
+2007-2008,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          17,984",    99.38
+2007-2008,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           4,119",100.00
+2007-2008,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          31,628",    85.05
+2007-2008,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              23,100.00
+2007-2008,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,<,>50
+2007-2008,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              36,    80.56
+2008-2009,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Algebra I,             706,    99.15
+2008-2009,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Geometry,             139,100.00
+2008-2009,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Mathematics,             997,    84.25
+2008-2009,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,             106,    99.06
+2008-2009,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              19,100.00
+2008-2009,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             164,    83.54
+2008-2009,Mathematics,Asian,8,SOL,Algebra I,"           2,281",100.00
+2008-2009,Mathematics,Asian,8,SOL,Geometry,             853,100.00
+2008-2009,Mathematics,Asian,8,SOL,Mathematics,"           1,669",    89.93
+2008-2009,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           5,571",    97.40
+2008-2009,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,             865,    96.76
+2008-2009,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          14,814",    73.04
+2008-2009,Mathematics,Hispanic,8,SOL,Algebra I,"           1,661",    98.49
+2008-2009,Mathematics,Hispanic,8,SOL,Geometry,             211,    99.05
+2008-2009,Mathematics,Hispanic,8,SOL,Mathematics,"           4,992",    73.98
+2008-2009,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          19,662",    99.24
+2008-2009,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           4,358",100.00
+2008-2009,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          26,191",    85.03
+2008-2009,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              37,100.00
+2008-2009,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              16,100.00
+2008-2009,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              45,    80.00
+2009-2010,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Algebra I,             776,    99.23
+2009-2010,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Geometry,             191,    98.95
+2009-2010,Mathematics,Unknown - Race/Ethnicity not provided,8,SOL,Mathematics,             794,    84.01
+2009-2010,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,             105,100.00
+2009-2010,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              27,100.00
+2009-2010,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             158,    82.91
+2009-2010,Mathematics,Asian,8,SOL,Algebra I,"           2,675",100.00
+2009-2010,Mathematics,Asian,8,SOL,Geometry,"           1,046",100.00
+2009-2010,Mathematics,Asian,8,SOL,Mathematics,"           1,520",    90.13
+2009-2010,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,326",    98.17
+2009-2010,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,156",    95.24
+2009-2010,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          13,333",    75.11
+2009-2010,Mathematics,Hispanic,8,SOL,Algebra I,"           2,170",    97.93
+2009-2010,Mathematics,Hispanic,8,SOL,Geometry,             262,100.00
+2009-2010,Mathematics,Hispanic,8,SOL,Mathematics,"           4,646",    78.17
+2009-2010,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          21,417",    99.18
+2009-2010,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           5,018",100.00
+2009-2010,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          23,461",    86.34
+2009-2010,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              32,100.00
+2009-2010,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,<,>50
+2009-2010,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              42,    88.10
+2010-2011,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,             102,    99.02
+2010-2011,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              33,100.00
+2010-2011,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             154,    80.52
+2010-2011,Mathematics,Asian,8,SOL,Algebra I,"           2,629",100.00
+2010-2011,Mathematics,Asian,8,SOL,Geometry,"           1,192",100.00
+2010-2011,Mathematics,Asian,8,SOL,Mathematics,"           1,274",    87.83
+2010-2011,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,758",    97.63
+2010-2011,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,437",    91.51
+2010-2011,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,058",    67.82
+2010-2011,Mathematics,Hispanic,8,SOL,Algebra I,"           3,070",    98.50
+2010-2011,Mathematics,Hispanic,8,SOL,Geometry,             453,    97.79
+2010-2011,Mathematics,Hispanic,8,SOL,Mathematics,"           5,391",    74.98
+2010-2011,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          21,635",    99.21
+2010-2011,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           5,431",100.00
+2010-2011,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          21,812",    81.96
+2010-2011,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              47,100.00
+2010-2011,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              12,100.00
+2010-2011,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              54,    87.04
+2010-2011,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,498",    99.00
+2010-2011,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             460,    99.13
+2010-2011,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           1,524",    81.82
+2011-2012,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,             103,    86.41
+2011-2012,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              20,    90.00
+2011-2012,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             141,    55.32
+2011-2012,Mathematics,Asian,8,SOL,Algebra I,"           2,799",    96.68
+2011-2012,Mathematics,Asian,8,SOL,Geometry,"           1,386",100.00
+2011-2012,Mathematics,Asian,8,SOL,Mathematics,"           1,093",    66.24
+2011-2012,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           7,344",    79.25
+2011-2012,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,754",    83.81
+2011-2012,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,077",    36.29
+2011-2012,Mathematics,Hispanic,8,SOL,Algebra I,"           3,533",    84.12
+2011-2012,Mathematics,Hispanic,8,SOL,Geometry,             589,    93.72
+2011-2012,Mathematics,Hispanic,8,SOL,Mathematics,"           5,162",    48.28
+2011-2012,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          22,809",    90.69
+2011-2012,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           6,193",    98.34
+2011-2012,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,830",    56.24
+2011-2012,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              53,    90.57
+2011-2012,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              23,100.00
+2011-2012,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              54,    62.96
+2011-2012,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,571",    90.64
+2011-2012,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             495,    95.35
+2011-2012,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           1,540",    53.83
+2012-2013,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,             117,    77.78
+2012-2013,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              32,    93.75
+2012-2013,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             148,    50.68
+2012-2013,Mathematics,Asian,8,SOL,Algebra I,"           2,518",    96.94
+2012-2013,Mathematics,Asian,8,SOL,Geometry,"           1,665",    99.22
+2012-2013,Mathematics,Asian,8,SOL,Mathematics,"           1,133",    69.11
+2012-2013,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,347",    81.33
+2012-2013,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,950",    84.15
+2012-2013,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,935",    39.23
+2012-2013,Mathematics,Hispanic,8,SOL,Algebra I,"           3,640",    85.22
+2012-2013,Mathematics,Hispanic,8,SOL,Geometry,             694,    95.39
+2012-2013,Mathematics,Hispanic,8,SOL,Mathematics,"           5,300",    51.02
+2012-2013,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          21,635",    91.53
+2012-2013,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           7,352",    97.84
+2012-2013,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,874",    57.26
+2012-2013,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              50,    82.00
+2012-2013,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              20,    95.00
+2012-2013,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              56,    58.93
+2012-2013,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,616",    89.60
+2012-2013,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             606,    94.39
+2012-2013,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           1,674",    56.09
+2013-2014,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,             100,    93.00
+2013-2014,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              22,100.00
+2013-2014,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             136,    52.94
+2013-2014,Mathematics,Asian,8,SOL,Algebra I,"           2,780",    97.88
+2013-2014,Mathematics,Asian,8,SOL,Geometry,"           1,759",100.00
+2013-2014,Mathematics,Asian,8,SOL,Mathematics,"           1,170",    75.30
+2013-2014,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,502",    84.57
+2013-2014,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,591",    89.63
+2013-2014,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          13,420",    45.01
+2013-2014,Mathematics,Hispanic,8,SOL,Algebra I,"           3,812",    87.33
+2013-2014,Mathematics,Hispanic,8,SOL,Geometry,             708,    96.47
+2013-2014,Mathematics,Hispanic,8,SOL,Mathematics,"           6,009",    54.14
+2013-2014,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          21,206",    93.66
+2013-2014,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           7,315",    98.66
+2013-2014,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          20,663",    63.56
+2013-2014,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              50,    98.00
+2013-2014,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              14,    92.86
+2013-2014,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              51,    56.86
+2013-2014,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,591",    92.08
+2013-2014,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             623,    98.07
+2013-2014,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           1,755",    59.15
+2014-2015,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              92,    88.04
+2014-2015,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              21,100.00
+2014-2015,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             150,    72.00
+2014-2015,Mathematics,Asian,8,SOL,Algebra I,"           2,847",    97.61
+2014-2015,Mathematics,Asian,8,SOL,Geometry,"           1,817",100.00
+2014-2015,Mathematics,Asian,8,SOL,Mathematics,"           1,323",    79.44
+2014-2015,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,118",    86.11
+2014-2015,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,582",    88.18
+2014-2015,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          13,405",    54.36
+2014-2015,Mathematics,Hispanic,8,SOL,Algebra I,"           3,899",    86.59
+2014-2015,Mathematics,Hispanic,8,SOL,Geometry,             696,    95.98
+2014-2015,Mathematics,Hispanic,8,SOL,Mathematics,"           6,767",    62.89
+2014-2015,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          20,878",    94.44
+2014-2015,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           6,928",    98.70
+2014-2015,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          21,181",    72.59
+2014-2015,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              48,    95.83
+2014-2015,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              22,    95.45
+2014-2015,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              69,    69.57
+2014-2015,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,638",    93.77
+2014-2015,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             596,    97.65
+2014-2015,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           1,925",    67.84
+2015-2016,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              85,    92.94
+2015-2016,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              19,    94.74
+2015-2016,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             149,    60.40
+2015-2016,Mathematics,Asian,8,SOL,Algebra I,"           2,977",    97.75
+2015-2016,Mathematics,Asian,8,SOL,Geometry,"           1,986",100.00
+2015-2016,Mathematics,Asian,8,SOL,Mathematics,"           1,338",    77.06
+2015-2016,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,114",    87.18
+2015-2016,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,430",    89.09
+2015-2016,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          13,432",    52.68
+2015-2016,Mathematics,Hispanic,8,SOL,Algebra I,"           4,355",    87.53
+2015-2016,Mathematics,Hispanic,8,SOL,Geometry,             717,    96.65
+2015-2016,Mathematics,Hispanic,8,SOL,Mathematics,"           7,189",    59.97
+2015-2016,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          20,646",    94.79
+2015-2016,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           6,902",    99.13
+2015-2016,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          20,108",    72.60
+2015-2016,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              36,    97.22
+2015-2016,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              24,100.00
+2015-2016,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              52,    78.85
+2015-2016,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,695",    93.27
+2015-2016,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             654,    98.93
+2015-2016,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           2,109",    69.46
+2016-2017,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              88,    86.36
+2016-2017,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              25,100.00
+2016-2017,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             119,    69.75
+2016-2017,Mathematics,Asian,8,SOL,Algebra I,"           2,903",    97.97
+2016-2017,Mathematics,Asian,8,SOL,Geometry,"           2,170",100.00
+2016-2017,Mathematics,Asian,8,SOL,Mathematics,"           1,352",    78.99
+2016-2017,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,417",    85.68
+2016-2017,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,364",    92.38
+2016-2017,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,734",    53.52
+2016-2017,Mathematics,Hispanic,8,SOL,Algebra I,"           4,554",    88.25
+2016-2017,Mathematics,Hispanic,8,SOL,Geometry,             739,    97.43
+2016-2017,Mathematics,Hispanic,8,SOL,Mathematics,"           7,397",    58.90
+2016-2017,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          20,826",    94.89
+2016-2017,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           7,011",    99.10
+2016-2017,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,400",    73.39
+2016-2017,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              61,    95.08
+2016-2017,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              27,    92.59
+2016-2017,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              69,    78.26
+2016-2017,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,809",    93.09
+2016-2017,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             688,    98.98
+2016-2017,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           2,174",    69.87
+2017-2018,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              71,    88.73
+2017-2018,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              26,    96.15
+2017-2018,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             118,    59.32
+2017-2018,Mathematics,Asian,8,SOL,Algebra I,"           3,074",    96.58
+2017-2018,Mathematics,Asian,8,SOL,Geometry,"           2,425",100.00
+2017-2018,Mathematics,Asian,8,SOL,Mathematics,"           1,372",    73.76
+2017-2018,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,493",    84.24
+2017-2018,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,384",    94.29
+2017-2018,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,569",    50.90
+2017-2018,Mathematics,Hispanic,8,SOL,Algebra I,"           4,651",    86.33
+2017-2018,Mathematics,Hispanic,8,SOL,Geometry,             896,    98.10
+2017-2018,Mathematics,Hispanic,8,SOL,Mathematics,"           8,246",    54.81
+2017-2018,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          20,028",    94.16
+2017-2018,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           7,684",    99.04
+2017-2018,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,754",    70.24
+2017-2018,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              63,    92.06
+2017-2018,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              25,100.00
+2017-2018,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              58,    79.31
+2017-2018,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,898",    93.52
+2017-2018,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             763,    98.69
+2017-2018,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           2,271",    65.92
+2018-2019,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              84,    95.24
+2018-2019,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              30,    93.33
+2018-2019,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             140,    67.86
+2018-2019,Mathematics,Asian,8,SOL,Algebra I,"           2,873",    98.26
+2018-2019,Mathematics,Asian,8,SOL,Geometry,"           2,387",100.00
+2018-2019,Mathematics,Asian,8,SOL,Mathematics,"           1,433",    81.23
+2018-2019,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,547",    90.58
+2018-2019,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,388",    95.10
+2018-2019,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,487",    57.12
+2018-2019,Mathematics,Hispanic,8,SOL,Algebra I,"           4,817",    89.89
+2018-2019,Mathematics,Hispanic,8,SOL,Geometry,             906,    98.79
+2018-2019,Mathematics,Hispanic,8,SOL,Mathematics,"           8,649",    62.24
+2018-2019,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          18,850",    96.18
+2018-2019,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           7,639",    99.29
+2018-2019,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,764",    75.29
+2018-2019,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              68,    97.06
+2018-2019,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              28,    96.43
+2018-2019,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              56,    69.64
+2018-2019,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,950",    95.03
+2018-2019,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             836,    99.16
+2018-2019,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           2,325",    69.85
+2020-2021,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              60,    80.00
+2020-2021,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              13,    92.31
+2020-2021,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,              97,    23.71
+2020-2021,Mathematics,Asian,8,SOL,Algebra I,"           2,206",    85.90
+2020-2021,Mathematics,Asian,8,SOL,Geometry,"           1,980",    96.67
+2020-2021,Mathematics,Asian,8,SOL,Mathematics,             926,    39.09
+2020-2021,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           4,738",    60.47
+2020-2021,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,116",    74.64
+2020-2021,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"           7,791",    16.56
+2020-2021,Mathematics,Hispanic,8,SOL,Algebra I,"           3,826",    65.94
+2020-2021,Mathematics,Hispanic,8,SOL,Geometry,             782,    85.55
+2020-2021,Mathematics,Hispanic,8,SOL,Mathematics,"           6,495",    20.22
+2020-2021,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          14,213",    79.21
+2020-2021,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           5,739",    92.46
+2020-2021,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          14,875",    37.71
+2020-2021,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              41,    78.05
+2020-2021,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              17,    76.47
+2020-2021,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              36,    30.56
+2020-2021,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,500",    74.00
+2020-2021,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             709,    92.67
+2020-2021,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           1,701",    28.69
+2021-2022,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              66,    87.88
+2021-2022,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              35,100.00
+2021-2022,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             145,    42.76
+2021-2022,Mathematics,Asian,8,SOL,Algebra I,"           2,871",    95.68
+2021-2022,Mathematics,Asian,8,SOL,Geometry,"           2,647",    97.36
+2021-2022,Mathematics,Asian,8,SOL,Mathematics,"           1,858",    61.09
+2021-2022,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           5,703",    81.22
+2021-2022,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,286",    85.85
+2021-2022,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          13,981",    35.02
+2021-2022,Mathematics,Hispanic,8,SOL,Algebra I,"           4,776",    82.45
+2021-2022,Mathematics,Hispanic,8,SOL,Geometry,             885,    94.46
+2021-2022,Mathematics,Hispanic,8,SOL,Mathematics,"          11,691",    37.48
+2021-2022,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          15,477",    93.30
+2021-2022,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           6,107",    97.15
+2021-2022,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          21,969",    55.91
+2021-2022,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              50,    98.00
+2021-2022,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              21,    90.48
+2021-2022,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              91,    49.45
+2021-2022,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           1,853",    91.26
+2021-2022,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             855,    97.08
+2021-2022,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           3,085",    48.75
+2022-2023,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              85,    82.35
+2022-2023,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              26,    92.31
+2022-2023,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             148,    43.92
+2022-2023,Mathematics,Asian,8,SOL,Algebra I,"           3,026",    96.46
+2022-2023,Mathematics,Asian,8,SOL,Geometry,"           2,274",    97.85
+2022-2023,Mathematics,Asian,8,SOL,Mathematics,"           1,898",    57.85
+2022-2023,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,005",    80.13
+2022-2023,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,120",    82.95
+2022-2023,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          13,019",    38.61
+2022-2023,Mathematics,Hispanic,8,SOL,Algebra I,"           5,299",    81.68
+2022-2023,Mathematics,Hispanic,8,SOL,Geometry,             867,    90.54
+2022-2023,Mathematics,Hispanic,8,SOL,Mathematics,"          11,516",    38.33
+2022-2023,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          15,778",    94.20
+2022-2023,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           5,385",    97.27
+2022-2023,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          20,679",    58.82
+2022-2023,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              57,    91.23
+2022-2023,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              21,    95.24
+2022-2023,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              94,    61.70
+2022-2023,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           2,049",    92.29
+2022-2023,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             733,    95.63
+2022-2023,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           3,107",    51.82
+2023-2024,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              85,    94.12
+2023-2024,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              22,    90.91
+2023-2024,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             114,    44.74
+2023-2024,Mathematics,Asian,8,SOL,Algebra I,"           3,062",    97.19
+2023-2024,Mathematics,Asian,8,SOL,Geometry,"           2,374",    98.48
+2023-2024,Mathematics,Asian,8,SOL,Mathematics,"           1,962",    60.60
+2023-2024,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           6,095",    84.12
+2023-2024,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,026",    87.43
+2023-2024,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,804",    39.64
+2023-2024,Mathematics,Hispanic,8,SOL,Algebra I,"           5,112",    85.39
+2023-2024,Mathematics,Hispanic,8,SOL,Geometry,             834,    93.65
+2023-2024,Mathematics,Hispanic,8,SOL,Mathematics,"          11,604",    39.15
+2023-2024,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          15,641",    95.86
+2023-2024,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           4,830",    98.26
+2023-2024,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,684",    61.78
+2023-2024,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              61,    95.08
+2023-2024,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              13,100.00
+2023-2024,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              86,    55.81
+2023-2024,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           2,119",    95.47
+2023-2024,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             745,    96.64
+2023-2024,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           3,167",    53.30
+2024-2025,Mathematics,American Indian or Alaska Native,8,SOL,Algebra I,              83,    91.57
+2024-2025,Mathematics,American Indian or Alaska Native,8,SOL,Geometry,              36,100.00
+2024-2025,Mathematics,American Indian or Alaska Native,8,SOL,Mathematics,             128,    45.31
+2024-2025,Mathematics,Asian,8,SOL,Algebra I,"           3,129",    98.02
+2024-2025,Mathematics,Asian,8,SOL,Geometry,"           2,361",100.00
+2024-2025,Mathematics,Asian,8,SOL,Mathematics,"           2,017",    59.00
+2024-2025,Mathematics,"Black, not of Hispanic origin",8,SOL,Algebra I,"           5,757",    83.20
+2024-2025,Mathematics,"Black, not of Hispanic origin",8,SOL,Geometry,"           1,179",    85.58
+2024-2025,Mathematics,"Black, not of Hispanic origin",8,SOL,Mathematics,"          12,248",    40.58
+2024-2025,Mathematics,Hispanic,8,SOL,Algebra I,"           5,120",    84.84
+2024-2025,Mathematics,Hispanic,8,SOL,Geometry,             913,    93.76
+2024-2025,Mathematics,Hispanic,8,SOL,Mathematics,"          12,028",    39.52
+2024-2025,Mathematics,"White, not of Hispanic origin",8,SOL,Algebra I,"          15,624",    95.71
+2024-2025,Mathematics,"White, not of Hispanic origin",8,SOL,Geometry,"           5,243",    98.38
+2024-2025,Mathematics,"White, not of Hispanic origin",8,SOL,Mathematics,"          19,106",    62.25
+2024-2025,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Algebra I,              70,    92.86
+2024-2025,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Geometry,              19,    94.74
+2024-2025,Mathematics,Native Hawaiian  or Pacific Islander,8,SOL,Mathematics,              79,    56.96
+2024-2025,Mathematics,"Non-Hispanic, two or more races",8,SOL,Algebra I,"           2,177",    95.13
+2024-2025,Mathematics,"Non-Hispanic, two or more races",8,SOL,Geometry,             829,    97.23
+2024-2025,Mathematics,"Non-Hispanic, two or more races",8,SOL,Mathematics,"           3,081",    53.91

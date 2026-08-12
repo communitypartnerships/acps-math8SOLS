@@ -1,0 +1,115 @@
+School Year,Subject,Grade,English Learners,Test Source,Test,Total Count,Pass Rate
+2005-2006,Mathematics,8,N,SOL,Algebra I,"          23,227",    98.48
+2005-2006,Mathematics,8,N,SOL,Geometry,"           4,749",    98.84
+2005-2006,Mathematics,8,N,SOL,Mathematics,"          61,153",    72.13
+2005-2006,Mathematics,8,Y,SOL,Algebra I,             530,    97.17
+2005-2006,Mathematics,8,Y,SOL,Geometry,              48,100.00
+2005-2006,Mathematics,8,Y,SOL,Mathematics,"           3,477",    53.21
+2006-2007,Mathematics,8,N,SOL,Algebra I,"          23,564",    98.84
+2006-2007,Mathematics,8,N,SOL,Geometry,"           5,393",    98.76
+2006-2007,Mathematics,8,N,SOL,Mathematics,"          59,512",    72.96
+2006-2007,Mathematics,8,Y,SOL,Algebra I,             596,    97.32
+2006-2007,Mathematics,8,Y,SOL,Geometry,              87,100.00
+2006-2007,Mathematics,8,Y,SOL,Mathematics,"           3,639",    53.45
+2007-2008,Mathematics,8,N,SOL,Algebra I,"          25,230",    99.16
+2007-2008,Mathematics,8,N,SOL,Geometry,"           5,888",    99.42
+2007-2008,Mathematics,8,N,SOL,Mathematics,"          54,366",    79.76
+2007-2008,Mathematics,8,Y,SOL,Algebra I,             710,    98.59
+2007-2008,Mathematics,8,Y,SOL,Geometry,              57,    98.25
+2007-2008,Mathematics,8,Y,SOL,Mathematics,"           3,758",    64.66
+2008-2009,Mathematics,8,N,SOL,Algebra I,"          28,698",    98.93
+2008-2009,Mathematics,8,N,SOL,Geometry,"           6,323",    99.38
+2008-2009,Mathematics,8,N,SOL,Mathematics,"          44,636",    81.30
+2008-2009,Mathematics,8,Y,SOL,Algebra I,             904,    97.46
+2008-2009,Mathematics,8,Y,SOL,Geometry,              70,    98.57
+2008-2009,Mathematics,8,Y,SOL,Mathematics,"           3,582",    68.65
+2009-2010,Mathematics,8,N,SOL,Algebra I,"          31,687",    98.99
+2009-2010,Mathematics,8,N,SOL,Geometry,"           7,536",    99.06
+2009-2010,Mathematics,8,N,SOL,Mathematics,"          39,987",    82.86
+2009-2010,Mathematics,8,Y,SOL,Algebra I,             427,    95.32
+2009-2010,Mathematics,8,Y,SOL,Geometry,              18,100.00
+2009-2010,Mathematics,8,Y,SOL,Mathematics,"           2,109",    64.20
+2010-2011,Mathematics,8,N,SOL,Algebra I,"          33,781",    98.90
+2010-2011,Mathematics,8,N,SOL,Geometry,"           8,811",    98.25
+2010-2011,Mathematics,8,N,SOL,Mathematics,"          38,166",    77.66
+2010-2011,Mathematics,8,Y,SOL,Algebra I,"           1,019",    97.35
+2010-2011,Mathematics,8,Y,SOL,Geometry,              76,    97.37
+2010-2011,Mathematics,8,Y,SOL,Mathematics,"           3,379",    69.13
+2011-2012,Mathematics,8,N,SOL,Algebra I,"          35,908",    88.41
+2011-2012,Mathematics,8,N,SOL,Geometry,"          10,229",    95.71
+2011-2012,Mathematics,8,N,SOL,Mathematics,"          35,938",    49.69
+2011-2012,Mathematics,8,Y,SOL,Algebra I,"           1,228",    79.80
+2011-2012,Mathematics,8,Y,SOL,Geometry,              70,    81.43
+2011-2012,Mathematics,8,Y,SOL,Mathematics,"           3,418",    42.54
+2012-2013,Mathematics,8,N,SOL,Algebra I,"          34,500",    89.65
+2012-2013,Mathematics,8,N,SOL,Geometry,"          12,132",    95.54
+2012-2013,Mathematics,8,N,SOL,Mathematics,"          37,438",    51.53
+2012-2013,Mathematics,8,Y,SOL,Algebra I,"           1,072",    77.24
+2012-2013,Mathematics,8,Y,SOL,Geometry,              89,    91.01
+2012-2013,Mathematics,8,Y,SOL,Mathematics,"           3,392",    43.87
+2013-2014,Mathematics,8,N,SOL,Algebra I,"          34,660",    92.01
+2013-2014,Mathematics,8,N,SOL,Geometry,"          11,878",    97.56
+2013-2014,Mathematics,8,N,SOL,Mathematics,"          39,509",    57.66
+2013-2014,Mathematics,8,Y,SOL,Algebra I,             969,    76.26
+2013-2014,Mathematics,8,Y,SOL,Geometry,              86,    87.21
+2013-2014,Mathematics,8,Y,SOL,Mathematics,"           3,381",    42.03
+2014-2015,Mathematics,8,N,SOL,Algebra I,"          34,307",    92.84
+2014-2015,Mathematics,8,N,SOL,Geometry,"          11,529",    97.29
+2014-2015,Mathematics,8,N,SOL,Mathematics,"          40,973",    67.10
+2014-2015,Mathematics,8,Y,SOL,Algebra I,             897,    72.69
+2014-2015,Mathematics,8,Y,SOL,Geometry,              67,    83.58
+2014-2015,Mathematics,8,Y,SOL,Mathematics,"           3,520",    47.56
+2015-2016,Mathematics,8,N,SOL,Algebra I,"          34,671",    93.27
+2015-2016,Mathematics,8,N,SOL,Geometry,"          11,619",    97.86
+2015-2016,Mathematics,8,N,SOL,Mathematics,"          40,478",    66.23
+2015-2016,Mathematics,8,Y,SOL,Algebra I,             851,    73.09
+2015-2016,Mathematics,8,Y,SOL,Geometry,              54,    88.89
+2015-2016,Mathematics,8,Y,SOL,Mathematics,"           3,607",    43.28
+2016-2017,Mathematics,8,N,SOL,Algebra I,"          34,455",    93.07
+2016-2017,Mathematics,8,N,SOL,Geometry,"          11,874",    98.36
+2016-2017,Mathematics,8,N,SOL,Mathematics,"          37,964",    66.86
+2016-2017,Mathematics,8,Y,SOL,Algebra I,             796,    75.38
+2016-2017,Mathematics,8,Y,SOL,Geometry,              31,    96.77
+2016-2017,Mathematics,8,Y,SOL,Mathematics,"           3,589",    42.85
+2017-2018,Mathematics,8,N,SOL,Algebra I,"          33,998",    92.04
+2017-2018,Mathematics,8,N,SOL,Geometry,"          12,978",    98.57
+2017-2018,Mathematics,8,N,SOL,Mathematics,"          38,444",    64.03
+2017-2018,Mathematics,8,Y,SOL,Algebra I,             661,    66.57
+2017-2018,Mathematics,8,Y,SOL,Geometry,              28,    96.43
+2017-2018,Mathematics,8,Y,SOL,Mathematics,"           3,717",    33.63
+2018-2019,Mathematics,8,N,SOL,Algebra I,"          33,222",    94.92
+2018-2019,Mathematics,8,N,SOL,Geometry,"          13,040",    98.87
+2018-2019,Mathematics,8,N,SOL,Mathematics,"          39,028",    69.67
+2018-2019,Mathematics,8,Y,SOL,Algebra I,             695,    69.78
+2018-2019,Mathematics,8,Y,SOL,Geometry,              19,100.00
+2018-2019,Mathematics,8,Y,SOL,Mathematics,"           3,666",    40.89
+2020-2021,Mathematics,8,N,SOL,Algebra I,"          25,090",    75.29
+2020-2021,Mathematics,8,N,SOL,Geometry,"          10,217",    90.85
+2020-2021,Mathematics,8,N,SOL,Mathematics,"          27,393",    30.84
+2020-2021,Mathematics,8,Y,SOL,Algebra I,             544,    37.87
+2020-2021,Mathematics,8,Y,SOL,Geometry,              16,100.00
+2020-2021,Mathematics,8,Y,SOL,Mathematics,"           3,014",     9.42
+2021-2022,Mathematics,8,N,SOL,Algebra I,"          27,798",    90.90
+2021-2022,Mathematics,8,N,SOL,Geometry,"          11,492",    95.81
+2021-2022,Mathematics,8,N,SOL,Mathematics,"          43,411",    49.24
+2021-2022,Mathematics,8,Y,SOL,Algebra I,             944,    52.44
+2021-2022,Mathematics,8,Y,SOL,Geometry,              44,    79.55
+2021-2022,Mathematics,8,Y,SOL,Mathematics,"           5,719",    19.51
+2022-2023,Mathematics,8,N,SOL,Algebra I,"          28,853",    91.12
+2022-2023,Mathematics,8,N,SOL,Geometry,"          10,160",    95.39
+2022-2023,Mathematics,8,N,SOL,Mathematics,"          40,973",    52.34
+2022-2023,Mathematics,8,Y,SOL,Algebra I,"           1,283",    58.22
+2022-2023,Mathematics,8,Y,SOL,Geometry,              41,    63.41
+2022-2023,Mathematics,8,Y,SOL,Mathematics,"           5,777",    19.20
+2023-2024,Mathematics,8,N,SOL,Algebra I,"          28,561",    93.47
+2023-2024,Mathematics,8,N,SOL,Geometry,"           9,549",    96.90
+2023-2024,Mathematics,8,N,SOL,Mathematics,"          39,464",    54.39
+2023-2024,Mathematics,8,Y,SOL,Algebra I,"           1,577",    67.15
+2023-2024,Mathematics,8,Y,SOL,Geometry,              75,    82.67
+2023-2024,Mathematics,8,Y,SOL,Mathematics,"           6,870",    22.56
+2024-2025,Mathematics,8,N,SOL,Algebra I,"          28,487",    93.24
+2024-2025,Mathematics,8,N,SOL,Geometry,"          10,264",    96.90
+2024-2025,Mathematics,8,N,SOL,Mathematics,"          38,216",    55.12
+2024-2025,Mathematics,8,Y,SOL,Algebra I,"           1,498",    65.02
+2024-2025,Mathematics,8,Y,SOL,Geometry,              93,    77.42
+2024-2025,Mathematics,8,Y,SOL,Mathematics,"           7,856",    24.95

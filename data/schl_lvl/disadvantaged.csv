@@ -1,0 +1,607 @@
+School Year,Division Number,Division Name,School Number,School Name,Subject,Grade,Disadvantaged,Test Source,Test,Total Count,Pass Rate
+2005-2006,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              59,    96.61
+2005-2006,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,<,<50
+2005-2006,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              15,100.00
+2005-2006,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,             146,    84.25
+2005-2006,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              25,    56.00
+2005-2006,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              14,100.00
+2005-2006,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2005-2006,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              23,100.00
+2005-2006,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              88,    90.91
+2005-2006,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              15,<50
+2005-2006,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              86,100.00
+2005-2006,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2005-2006,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              28,100.00
+2005-2006,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2005-2006,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,             213,    91.55
+2005-2006,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              21,    47.62
+2005-2006,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              42,100.00
+2005-2006,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2005-2006,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              25,100.00
+2005-2006,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2005-2006,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,             126,    84.92
+2005-2006,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              38,    63.16
+2005-2006,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              57,100.00
+2005-2006,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2005-2006,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              38,100.00
+2005-2006,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,             194,    94.85
+2005-2006,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              23,    73.91
+2006-2007,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              53,    96.23
+2006-2007,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2006-2007,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              26,100.00
+2006-2007,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              62,    85.48
+2006-2007,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              25,    68.00
+2006-2007,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              29,100.00
+2006-2007,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2006-2007,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              21,100.00
+2006-2007,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              56,    66.07
+2006-2007,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              42,    42.86
+2006-2007,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              87,100.00
+2006-2007,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2006-2007,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              27,100.00
+2006-2007,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              69,    88.41
+2006-2007,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              17,    70.59
+2006-2007,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              39,100.00
+2006-2007,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2006-2007,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              16,100.00
+2006-2007,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2006-2007,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              47,    42.55
+2006-2007,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              31,    35.48
+2006-2007,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              57,100.00
+2006-2007,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2006-2007,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              42,100.00
+2006-2007,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2006-2007,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              82,    82.93
+2006-2007,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              17,    70.59
+2007-2008,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              59,    98.31
+2007-2008,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2007-2008,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              26,100.00
+2007-2008,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2007-2008,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              36,    97.22
+2007-2008,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              37,    83.78
+2007-2008,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              46,100.00
+2007-2008,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2007-2008,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              21,100.00
+2007-2008,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              49,    93.88
+2007-2008,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              25,    84.00
+2007-2008,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              81,100.00
+2007-2008,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              36,100.00
+2007-2008,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2007-2008,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              94,    88.30
+2007-2008,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              20,    75.00
+2007-2008,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              32,100.00
+2007-2008,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2007-2008,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              26,100.00
+2007-2008,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2007-2008,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              53,    75.47
+2007-2008,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              30,    66.67
+2007-2008,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              48,100.00
+2007-2008,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2007-2008,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              50,100.00
+2007-2008,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2007-2008,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              54,    83.33
+2007-2008,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,<,>50
+2008-2009,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              69,100.00
+2008-2009,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              10,100.00
+2008-2009,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              31,100.00
+2008-2009,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2008-2009,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              24,    83.33
+2008-2009,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              40,    90.00
+2008-2009,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              34,100.00
+2008-2009,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2008-2009,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              10,100.00
+2008-2009,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2008-2009,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              70,    98.57
+2008-2009,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              29,    96.55
+2008-2009,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              76,100.00
+2008-2009,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2008-2009,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              60,100.00
+2008-2009,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              83,    96.39
+2008-2009,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              24,    87.50
+2008-2009,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              20,100.00
+2008-2009,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2008-2009,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              21,100.00
+2008-2009,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2008-2009,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              27,    85.19
+2008-2009,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              27,    81.48
+2008-2009,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              64,100.00
+2008-2009,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2008-2009,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              49,100.00
+2008-2009,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2008-2009,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              57,    98.25
+2008-2009,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              12,100.00
+2009-2010,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              54,100.00
+2009-2010,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              16,100.00
+2009-2010,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              35,100.00
+2009-2010,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2009-2010,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              22,100.00
+2009-2010,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              33,    84.85
+2009-2010,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              49,100.00
+2009-2010,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              10,100.00
+2009-2010,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              19,100.00
+2009-2010,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2009-2010,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              32,    93.75
+2009-2010,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              38,    94.74
+2009-2010,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              88,100.00
+2009-2010,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2009-2010,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              54,100.00
+2009-2010,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2009-2010,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              69,    92.75
+2009-2010,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              18,    83.33
+2009-2010,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              34,100.00
+2009-2010,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2009-2010,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              23,100.00
+2009-2010,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2009-2010,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              22,    90.91
+2009-2010,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              30,    76.67
+2009-2010,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              66,100.00
+2009-2010,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2009-2010,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              48,100.00
+2009-2010,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2009-2010,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              49,    93.88
+2009-2010,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              16,100.00
+2010-2011,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,              10,    90.00
+2010-2011,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,>50
+2010-2011,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              66,100.00
+2010-2011,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              25,100.00
+2010-2011,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              41,100.00
+2010-2011,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2010-2011,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              38,    92.11
+2010-2011,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              34,    91.18
+2010-2011,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              44,100.00
+2010-2011,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              13,100.00
+2010-2011,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              18,100.00
+2010-2011,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2010-2011,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              32,    87.50
+2010-2011,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              44,    79.55
+2010-2011,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              93,100.00
+2010-2011,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2010-2011,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              50,100.00
+2010-2011,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              79,    96.20
+2010-2011,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              29,    89.66
+2010-2011,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              37,100.00
+2010-2011,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              13,100.00
+2010-2011,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              16,100.00
+2010-2011,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2010-2011,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              19,    89.47
+2010-2011,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              27,    74.07
+2010-2011,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              61,100.00
+2010-2011,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2010-2011,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              52,    98.08
+2010-2011,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2010-2011,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              52,    96.15
+2010-2011,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              14,    92.86
+2011-2012,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,>50
+2011-2012,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,>50
+2011-2012,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              58,100.00
+2011-2012,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              15,    93.33
+2011-2012,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              28,100.00
+2011-2012,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2011-2012,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              18,    61.11
+2011-2012,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              37,    78.38
+2011-2012,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              51,    98.04
+2011-2012,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              15,    86.67
+2011-2012,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              30,100.00
+2011-2012,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2011-2012,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              29,    55.17
+2011-2012,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              27,    29.63
+2011-2012,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             106,100.00
+2011-2012,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2011-2012,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              48,100.00
+2011-2012,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2011-2012,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              82,    96.34
+2011-2012,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              28,    96.43
+2011-2012,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              26,    73.08
+2011-2012,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2011-2012,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              34,100.00
+2011-2012,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2011-2012,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              28,    50.00
+2011-2012,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              27,    33.33
+2011-2012,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              59,    94.92
+2011-2012,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2011-2012,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              69,100.00
+2011-2012,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              26,    50.00
+2011-2012,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              18,    50.00
+2012-2013,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,              15,<50
+2012-2013,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,<50
+2012-2013,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              44,    86.36
+2012-2013,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              17,    88.24
+2012-2013,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              35,100.00
+2012-2013,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2012-2013,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              23,    69.57
+2012-2013,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              42,    42.86
+2012-2013,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              38,    97.37
+2012-2013,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              16,100.00
+2012-2013,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              38,100.00
+2012-2013,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2012-2013,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              27,    66.67
+2012-2013,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              41,    53.66
+2012-2013,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             113,    98.23
+2012-2013,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2012-2013,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              52,100.00
+2012-2013,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2012-2013,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              42,    92.86
+2012-2013,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              19,<50
+2012-2013,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              24,100.00
+2012-2013,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              12,100.00
+2012-2013,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              34,100.00
+2012-2013,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2012-2013,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              33,    54.55
+2012-2013,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              28,    28.57
+2012-2013,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              69,    98.55
+2012-2013,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2012-2013,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              78,100.00
+2012-2013,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2012-2013,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              33,    51.52
+2012-2013,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              17,<50
+2013-2014,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,<50
+2013-2014,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,<50
+2013-2014,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              68,    94.12
+2013-2014,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              28,    96.43
+2013-2014,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              50,100.00
+2013-2014,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2013-2014,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              22,    72.73
+2013-2014,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              58,    50.00
+2013-2014,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              42,    97.62
+2013-2014,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              16,100.00
+2013-2014,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              44,100.00
+2013-2014,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2013-2014,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              29,    58.62
+2013-2014,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              52,    50.00
+2013-2014,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             125,    97.60
+2013-2014,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2013-2014,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              67,100.00
+2013-2014,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2013-2014,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              33,    93.94
+2013-2014,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              19,    78.95
+2013-2014,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              15,    93.33
+2013-2014,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              18,    94.44
+2013-2014,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              21,100.00
+2013-2014,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2013-2014,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              22,    68.18
+2013-2014,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              24,    58.33
+2013-2014,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              81,    93.83
+2013-2014,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2013-2014,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              60,100.00
+2013-2014,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2013-2014,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              30,    43.33
+2013-2014,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,<,>50
+2014-2015,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,<50
+2014-2015,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,<50
+2014-2015,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              43,100.00
+2014-2015,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              23,100.00
+2014-2015,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              31,100.00
+2014-2015,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2014-2015,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              24,    79.17
+2014-2015,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              51,    64.71
+2014-2015,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              57,    94.74
+2014-2015,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              13,100.00
+2014-2015,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              38,100.00
+2014-2015,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2014-2015,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              26,    53.85
+2014-2015,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              35,    42.86
+2014-2015,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             133,    99.25
+2014-2015,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,              18,100.00
+2014-2015,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              62,100.00
+2014-2015,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2014-2015,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              39,    94.87
+2014-2015,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              12,<50
+2014-2015,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              18,    94.44
+2014-2015,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              15,    86.67
+2014-2015,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              29,100.00
+2014-2015,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2014-2015,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              25,    60.00
+2014-2015,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              38,    47.37
+2014-2015,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              66,    92.42
+2014-2015,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2014-2015,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              52,100.00
+2014-2015,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2014-2015,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              33,    42.42
+2014-2015,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              15,<50
+2015-2016,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,<50
+2015-2016,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,<50
+2015-2016,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              49,    93.88
+2015-2016,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              23,    95.65
+2015-2016,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              41,100.00
+2015-2016,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2015-2016,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              16,    75.00
+2015-2016,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              72,    56.94
+2015-2016,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              28,    85.71
+2015-2016,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2015-2016,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              28,100.00
+2015-2016,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2015-2016,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              39,    58.97
+2015-2016,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              48,    39.58
+2015-2016,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             143,    97.90
+2015-2016,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2015-2016,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              72,100.00
+2015-2016,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2015-2016,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              30,    83.33
+2015-2016,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              14,    57.14
+2015-2016,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              14,100.00
+2015-2016,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2015-2016,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              26,100.00
+2015-2016,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2015-2016,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              31,    80.65
+2015-2016,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              47,    78.72
+2015-2016,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              60,    88.33
+2015-2016,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,              14,    78.57
+2015-2016,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              70,100.00
+2015-2016,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2015-2016,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              24,    41.67
+2015-2016,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              13,<50
+2015-2016,2,Albemarle County ,890,Murray High,Mathematics,8,N,SOL,Algebra I,<,>50
+2015-2016,2,Albemarle County ,890,Murray High,Mathematics,8,Y,SOL,Algebra I,<,>50
+2016-2017,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,<50
+2016-2017,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,<50
+2016-2017,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              45,100.00
+2016-2017,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              24,100.00
+2016-2017,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              35,100.00
+2016-2017,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2016-2017,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              26,    69.23
+2016-2017,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              50,    60.00
+2016-2017,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              31,100.00
+2016-2017,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2016-2017,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              35,100.00
+2016-2017,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2016-2017,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              52,    84.62
+2016-2017,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              51,    62.75
+2016-2017,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             136,    97.06
+2016-2017,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,              15,    80.00
+2016-2017,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              71,100.00
+2016-2017,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2016-2017,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              29,    58.62
+2016-2017,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              16,    56.25
+2016-2017,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              14,    92.86
+2016-2017,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2016-2017,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              30,100.00
+2016-2017,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2016-2017,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              23,    82.61
+2016-2017,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              23,    86.96
+2016-2017,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              64,    87.50
+2016-2017,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,              14,    78.57
+2016-2017,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              56,100.00
+2016-2017,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2016-2017,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              22,    68.18
+2016-2017,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              18,    50.00
+2016-2017,2,Albemarle County ,890,Murray High,Mathematics,8,N,SOL,Algebra I,<,>50
+2017-2018,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Algebra I,<,<50
+2017-2018,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Geometry,<,>50
+2017-2018,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,<50
+2017-2018,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,<50
+2017-2018,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              32,    90.63
+2017-2018,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              22,100.00
+2017-2018,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              35,100.00
+2017-2018,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2017-2018,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              16,    56.25
+2017-2018,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              71,    46.48
+2017-2018,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              42,    97.62
+2017-2018,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              11,100.00
+2017-2018,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              35,100.00
+2017-2018,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2017-2018,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              25,    76.00
+2017-2018,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              58,    60.34
+2017-2018,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             141,    95.04
+2017-2018,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2017-2018,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              72,100.00
+2017-2018,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2017-2018,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              46,    76.09
+2017-2018,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              16,<50
+2017-2018,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              17,100.00
+2017-2018,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2017-2018,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              25,100.00
+2017-2018,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2017-2018,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              27,    77.78
+2017-2018,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              33,    57.58
+2017-2018,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              76,    94.74
+2017-2018,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2017-2018,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              63,100.00
+2017-2018,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2017-2018,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              32,    43.75
+2017-2018,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              18,    55.56
+2018-2019,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Algebra I,<,>50
+2018-2019,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Algebra I,<,>50
+2018-2019,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,N,SOL,Mathematics,<,<50
+2018-2019,2,Albemarle County ,1060,Albemarle County Community Public Charter,Mathematics,8,Y,SOL,Mathematics,<,>50
+2018-2019,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              43,100.00
+2018-2019,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              30,    96.67
+2018-2019,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              34,100.00
+2018-2019,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              16,    81.25
+2018-2019,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              60,    56.67
+2018-2019,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              53,    94.34
+2018-2019,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2018-2019,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              39,100.00
+2018-2019,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              33,    78.79
+2018-2019,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              64,    68.75
+2018-2019,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             144,    99.31
+2018-2019,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,              13,    92.31
+2018-2019,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              81,100.00
+2018-2019,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              38,    76.32
+2018-2019,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              20,    60.00
+2018-2019,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              30,100.00
+2018-2019,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              12,    83.33
+2018-2019,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              26,100.00
+2018-2019,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              25,    76.00
+2018-2019,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              28,    67.86
+2018-2019,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              57,    98.25
+2018-2019,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2018-2019,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              59,100.00
+2018-2019,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2018-2019,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,              23,    56.52
+2018-2019,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              18,    50.00
+2020-2021,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              28,100.00
+2020-2021,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              20,    95.00
+2020-2021,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              10,100.00
+2020-2021,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              17,    76.47
+2020-2021,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              13,    61.54
+2020-2021,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              16,100.00
+2020-2021,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              11,<50
+2020-2021,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              44,    61.36
+2020-2021,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,<50
+2020-2021,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              33,100.00
+2020-2021,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,<,>50
+2020-2021,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              12,    58.33
+2020-2021,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              10,    80.00
+2020-2021,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Algebra I,              42,    66.67
+2020-2021,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Algebra I,              17,    52.94
+2020-2021,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Geometry,              67,    88.06
+2020-2021,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,N,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,1051,Mortimer Y. Sutherland Middle,Mathematics,8,Y,SOL,Mathematics,              13,<50
+2020-2021,2,Albemarle County ,890,Murray School,Mathematics,8,N,SOL,Algebra I,<,>50
+2020-2021,2,Albemarle County ,890,Murray School,Mathematics,8,Y,SOL,Algebra I,<,<50
+2020-2021,2,Albemarle County ,890,Murray School,Mathematics,8,N,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,890,Murray School,Mathematics,8,N,SOL,Mathematics,<,<50
+2020-2021,2,Albemarle County ,890,Murray School,Mathematics,8,Y,SOL,Mathematics,<,<50
+2021-2022,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Algebra I,<,>50
+2021-2022,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Algebra I,<,>50
+2021-2022,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Geometry,<,>50
+2021-2022,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Mathematics,              11,    90.91
+2021-2022,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Mathematics,<,>50
+2021-2022,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Algebra I,              54,    92.59
+2021-2022,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Algebra I,              34,    91.18
+2021-2022,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Geometry,              30,    96.67
+2021-2022,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2021-2022,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,N,SOL,Mathematics,              49,    30.61
+2021-2022,2,Albemarle County ,950,Jack Jouett Middle,Mathematics,8,Y,SOL,Mathematics,              69,    13.04
+2021-2022,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              48,    91.67
+2021-2022,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              22,    77.27
+2021-2022,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              39,100.00
+2021-2022,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2021-2022,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              37,    13.51
+2021-2022,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              47,    12.77
+2021-2022,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              73,    82.19
+2021-2022,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2021-2022,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,             121,    99.17
+2021-2022,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2021-2022,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              53,    43.40
+2021-2022,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              37,    13.51
+2021-2022,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Algebra I,              52,    90.38
+2021-2022,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Algebra I,              15,    93.33
+2021-2022,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Geometry,              68,    98.53
+2021-2022,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2021-2022,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Mathematics,              25,    44.00
+2021-2022,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Mathematics,              15,    60.00
+2021-2022,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              22,    81.82
+2021-2022,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2021-2022,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              21,    95.24
+2021-2022,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2021-2022,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              18,    66.67
+2021-2022,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              27,    55.56
+2022-2023,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Algebra I,<,>50
+2022-2023,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Geometry,              14,100.00
+2022-2023,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Geometry,<,>50
+2022-2023,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Mathematics,              11,    90.91
+2022-2023,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Mathematics,<,>50
+2022-2023,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              28,100.00
+2022-2023,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,              18,100.00
+2022-2023,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              50,100.00
+2022-2023,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2022-2023,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              36,    52.78
+2022-2023,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              73,    20.55
+2022-2023,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              96,    94.79
+2022-2023,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2022-2023,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              68,    98.53
+2022-2023,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              63,    52.38
+2022-2023,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              26,    26.92
+2022-2023,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Algebra I,              39,    84.62
+2022-2023,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Algebra I,              29,    75.86
+2022-2023,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Geometry,              33,100.00
+2022-2023,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2022-2023,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Mathematics,              30,    30.00
+2022-2023,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Mathematics,              88,    23.86
+2022-2023,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Algebra I,              49,    93.88
+2022-2023,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Algebra I,              13,100.00
+2022-2023,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Geometry,              53,100.00
+2022-2023,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2022-2023,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Mathematics,              27,    51.85
+2022-2023,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Mathematics,              30,    30.00
+2022-2023,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              25,    80.00
+2022-2023,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,              11,<50
+2022-2023,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              33,    96.97
+2022-2023,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2022-2023,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              19,    78.95
+2022-2023,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              23,    43.48
+2023-2024,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Algebra I,<,>50
+2023-2024,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Geometry,              16,100.00
+2023-2024,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Geometry,<,>50
+2023-2024,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Mathematics,<,>50
+2023-2024,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Mathematics,<,>50
+2023-2024,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              21,    95.24
+2023-2024,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2023-2024,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              37,100.00
+2023-2024,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2023-2024,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              31,    48.39
+2023-2024,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              71,    36.62
+2023-2024,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,              94,    93.62
+2023-2024,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2023-2024,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              84,100.00
+2023-2024,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2023-2024,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              50,    66.00
+2023-2024,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              32,    34.38
+2023-2024,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Algebra I,              26,    92.31
+2023-2024,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Algebra I,              18,    55.56
+2023-2024,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Geometry,              37,    91.89
+2023-2024,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Geometry,              13,    61.54
+2023-2024,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Mathematics,              31,    29.03
+2023-2024,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Mathematics,              68,    19.12
+2023-2024,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Algebra I,              27,    96.30
+2023-2024,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2023-2024,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Geometry,              73,    98.63
+2023-2024,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2023-2024,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Mathematics,              24,    45.83
+2023-2024,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Mathematics,              21,    52.38
+2023-2024,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              17,    94.12
+2023-2024,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2023-2024,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              17,100.00
+2023-2024,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2023-2024,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              24,    62.50
+2023-2024,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              35,    48.57
+2024-2025,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Algebra I,              13,    92.31
+2024-2025,2,Albemarle County ,890,Community Lab School,Mathematics,8,Y,SOL,Algebra I,<,>50
+2024-2025,2,Albemarle County ,890,Community Lab School,Mathematics,8,N,SOL,Geometry,              11,100.00
+2024-2025,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Algebra I,              26,    84.62
+2024-2025,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2024-2025,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Geometry,              46,    93.48
+2024-2025,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2024-2025,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,N,SOL,Mathematics,              44,    56.82
+2024-2025,2,Albemarle County ,69,Jackson P. Burley Middle,Mathematics,8,Y,SOL,Mathematics,              57,    33.33
+2024-2025,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Algebra I,             111,    95.50
+2024-2025,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2024-2025,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Geometry,              68,100.00
+2024-2025,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2024-2025,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,N,SOL,Mathematics,              53,    58.49
+2024-2025,2,Albemarle County ,942,Joseph T. Henley Middle,Mathematics,8,Y,SOL,Mathematics,              31,    45.16
+2024-2025,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Algebra I,              25,    92.00
+2024-2025,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Algebra I,              15,    80.00
+2024-2025,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Geometry,              29,    96.55
+2024-2025,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Geometry,              10,100.00
+2024-2025,2,Albemarle County ,950,Journey Middle,Mathematics,8,N,SOL,Mathematics,              46,    32.61
+2024-2025,2,Albemarle County ,950,Journey Middle,Mathematics,8,Y,SOL,Mathematics,              75,    30.67
+2024-2025,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Algebra I,              38,    92.11
+2024-2025,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Algebra I,              19,    84.21
+2024-2025,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Geometry,              63,    93.65
+2024-2025,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2024-2025,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,N,SOL,Mathematics,              21,    61.90
+2024-2025,2,Albemarle County ,1051,Lakeside Middle,Mathematics,8,Y,SOL,Mathematics,              30,    60.00
+2024-2025,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Algebra I,              19,    84.21
+2024-2025,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Algebra I,<,>50
+2024-2025,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Geometry,              27,100.00
+2024-2025,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Geometry,<,>50
+2024-2025,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,N,SOL,Mathematics,              31,    64.52
+2024-2025,2,Albemarle County ,20,Leslie H. Walton Middle,Mathematics,8,Y,SOL,Mathematics,              32,    59.38

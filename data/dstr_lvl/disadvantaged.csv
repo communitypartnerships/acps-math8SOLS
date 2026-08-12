@@ -1,0 +1,115 @@
+School Year,Division Number,Division Name,Subject,Grade,Disadvantaged,Test Source,Test,Total Count,Pass Rate
+2005-2006,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             260,    99.23
+2005-2006,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             129,100.00
+2005-2006,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             770,    89.48
+2005-2006,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              14,    92.86
+2005-2006,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2005-2006,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             123,    58.54
+2006-2007,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             266,    99.25
+2006-2007,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             132,100.00
+2006-2007,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             319,    75.24
+2006-2007,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              13,100.00
+2006-2007,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2006-2007,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             138,    50.72
+2007-2008,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             266,100.00
+2007-2008,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             159,100.00
+2007-2008,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             287,    86.76
+2007-2008,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              16,100.00
+2007-2008,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2007-2008,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             123,    75.61
+2008-2009,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             267,100.00
+2008-2009,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             173,100.00
+2008-2009,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             263,    94.30
+2008-2009,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              22,100.00
+2008-2009,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2008-2009,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             136,    88.24
+2009-2010,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             291,100.00
+2009-2010,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             179,100.00
+2009-2010,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             198,    92.42
+2009-2010,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              37,100.00
+2009-2010,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2009-2010,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             137,    86.86
+2010-2011,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             301,100.00
+2010-2011,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             177,    99.44
+2010-2011,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             235,    91.49
+2010-2011,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              61,100.00
+2010-2011,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2010-2011,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             155,    83.87
+2011-2012,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             300,    96.33
+2011-2012,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             209,100.00
+2011-2012,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             186,    73.12
+2011-2012,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              44,    90.91
+2011-2012,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              13,100.00
+2011-2012,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             143,    60.14
+2012-2013,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             289,    96.54
+2012-2013,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             238,100.00
+2012-2013,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             175,    64.00
+2012-2013,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              56,    92.86
+2012-2013,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              19,100.00
+2012-2013,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             156,    41.67
+2013-2014,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             332,    95.48
+2013-2014,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             242,100.00
+2013-2014,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             146,    63.70
+2013-2014,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              73,    97.26
+2013-2014,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              11,100.00
+2013-2014,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             167,    53.29
+2014-2015,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             317,    96.85
+2014-2015,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             212,100.00
+2014-2015,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             156,    64.74
+2014-2015,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              76,    96.05
+2014-2015,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              13,100.00
+2014-2015,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             156,    50.00
+2015-2016,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             295,    94.24
+2015-2016,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             237,100.00
+2015-2016,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             151,    63.58
+2015-2016,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              59,    89.83
+2015-2016,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              12,100.00
+2015-2016,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             206,    52.43
+2016-2017,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             295,    95.59
+2016-2017,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             227,100.00
+2016-2017,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             161,    72.05
+2016-2017,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              62,    88.71
+2016-2017,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              20,100.00
+2016-2017,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             167,    59.88
+2017-2018,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             309,    94.82
+2017-2018,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             231,100.00
+2017-2018,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             155,    63.87
+2017-2018,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              55,    92.73
+2017-2018,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              17,100.00
+2017-2018,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             203,    50.74
+2018-2019,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             329,    98.48
+2018-2019,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             241,100.00
+2018-2019,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             144,    71.53
+2018-2019,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              72,    94.44
+2018-2019,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              27,100.00
+2018-2019,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             197,    60.91
+2020-2021,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             146,    71.92
+2020-2021,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             136,    94.12
+2020-2021,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,              26,    23.08
+2020-2021,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              62,    70.97
+2020-2021,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,<,>50
+2020-2021,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,              35,    11.43
+2021-2022,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             255,    87.84
+2021-2022,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             284,    98.59
+2021-2022,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             195,    38.97
+2021-2022,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              86,    87.21
+2021-2022,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              19,100.00
+2021-2022,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             203,    22.17
+2022-2023,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             243,    92.18
+2022-2023,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             251,    99.20
+2022-2023,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             191,    52.36
+2022-2023,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              80,    83.75
+2022-2023,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              22,    95.45
+2022-2023,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             243,    26.34
+2023-2024,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             192,    93.75
+2023-2024,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             264,    98.48
+2023-2024,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             172,    51.16
+2023-2024,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              48,    77.08
+2023-2024,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              33,    75.76
+2023-2024,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             231,    34.20
+2024-2025,2,Albemarle County ,Mathematics,8,N,SOL,Algebra I,             233,    91.85
+2024-2025,2,Albemarle County ,Mathematics,8,N,SOL,Geometry,             244,    96.72
+2024-2025,2,Albemarle County ,Mathematics,8,N,SOL,Mathematics,             198,    52.53
+2024-2025,2,Albemarle County ,Mathematics,8,Y,SOL,Algebra I,              53,    75.47
+2024-2025,2,Albemarle County ,Mathematics,8,Y,SOL,Geometry,              23,    95.65
+2024-2025,2,Albemarle County ,Mathematics,8,Y,SOL,Mathematics,             225,    41.33
